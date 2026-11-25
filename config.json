@@ -1,0 +1,42 @@
+{
+  "waOnly": true,
+  "wa": "9647710055777",
+  "phone": "9647710055777",
+  "usdIqd": 0,
+  "fee": {
+    "type": "fixed",
+    "value": 10000,
+    "cur": "IQD",
+    "per": "traveler"
+  },
+  "bagFee": {
+    "value": 0,
+    "cur": "USD"
+  },
+  "pay": [
+    {
+      "id": "superqi",
+      "name": "Super Qi",
+      "number": "",
+      "holder": ""
+    },
+    {
+      "id": "fastpay",
+      "name": "FastPay",
+      "number": "",
+      "holder": ""
+    },
+    {
+      "id": "fib",
+      "name": "FIB",
+      "number": "",
+      "holder": ""
+    },
+    {
+      "id": "zaincash",
+      "name": "Zain Cash",
+      "number": "",
+      "holder": ""
+    }
+  ]
+}
